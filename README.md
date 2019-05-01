@@ -14,5 +14,14 @@ ICopy source target /encrypt
 
 ICopy source targer /decrypt
 
+### Copy(default)/Move
+ICopy source target /copy
+ICopy source target /move
+
+### File Exclude
+ICopy source target /exclude=.ext
+
 ### Combination
 ICopy source target /full /encrypt
+
+ICopy source target /move /exclude=.ext
