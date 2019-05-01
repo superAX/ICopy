@@ -1,0 +1,7 @@
+F:\Documents\UCLA_Studying\Jobs\Coding\GCS\ICopy\bin\Release\ICopy.exe.config
+F:\Documents\UCLA_Studying\Jobs\Coding\GCS\ICopy\bin\Release\ICopy.exe
+F:\Documents\UCLA_Studying\Jobs\Coding\GCS\ICopy\bin\Release\ICopy.pdb
+F:\Documents\UCLA_Studying\Jobs\Coding\GCS\ICopy\obj\Release\ICopy.csprojAssemblyReference.cache
+F:\Documents\UCLA_Studying\Jobs\Coding\GCS\ICopy\obj\Release\ICopy.csproj.CoreCompileInputs.cache
+F:\Documents\UCLA_Studying\Jobs\Coding\GCS\ICopy\obj\Release\ICopy.exe
+F:\Documents\UCLA_Studying\Jobs\Coding\GCS\ICopy\obj\Release\ICopy.pdb
